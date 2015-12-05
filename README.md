@@ -1,6 +1,8 @@
-Simple Leaflet map template for putting points on a map.
+leaflet-simple-csv SSL
 
-<img src="https://raw.github.com/perrygeo/leaflet-simple-csv/master/img/screenshot1.png" alt="Leaflet" />
+I've made some changes to this sourcecode from perry so it will be possible to use it with SSL.
+
+Simple Leaflet map template for putting points on a map.
 
 ### Features
 * Data is in tabular delimited-text (csv, etc.) with two required columns: `lat` and `lng`
