@@ -1,6 +1,5 @@
-leaflet-simple-csv SSL
-
-I've made some changes to this sourcecode from perry so it will be possible to use it with SSL.
+###leaflet-simple-csv SSL (DRAFT)###
+. I've made some changes to this sourcecode from perry so it will be possible to use it with SSL.
 
 Simple Leaflet map template for putting points on a map.
 
