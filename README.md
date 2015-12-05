@@ -1,5 +1,10 @@
 ###leaflet-simple-csv SSL (DRAFT)###
-. I've made some changes to this sourcecode from perry so it will be possible to use it with SSL.
+I've made some changes to this sourcecode from perrygeo so it will be possible to use it with SSL.
+
+open todos:
+* http and https check
+* updates of Leaflet.markercluster, Leaflet.geoCSV
+* different layers 
 
 Simple Leaflet map template for putting points on a map.
 
